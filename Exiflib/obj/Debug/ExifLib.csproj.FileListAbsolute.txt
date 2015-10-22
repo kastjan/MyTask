@@ -1,0 +1,9 @@
+C:\Users\kastjan\Downloads\Exiflib\ExifLib\bin\Debug\ExifLib.dll
+C:\Users\kastjan\Downloads\Exiflib\ExifLib\bin\Debug\ExifLib.pdb
+C:\Users\kastjan\Downloads\Exiflib\ExifLib\obj\Debug\ExifLib.csprojResolveAssemblyReference.cache
+C:\Users\kastjan\Downloads\Exiflib\ExifLib\obj\Debug\ExifLib.dll
+C:\Users\kastjan\Downloads\Exiflib\ExifLib\obj\Debug\ExifLib.pdb
+F:\MyTask\Exiflib\bin\Debug\ExifLib.dll
+F:\MyTask\Exiflib\bin\Debug\ExifLib.pdb
+F:\MyTask\Exiflib\obj\Debug\ExifLib.dll
+F:\MyTask\Exiflib\obj\Debug\ExifLib.pdb
